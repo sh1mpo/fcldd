@@ -1,0 +1,16 @@
+/*
+  Name: Hello.cpp
+  Author: Carlla Shimpo
+  Date: 23/03/16 09:02
+  Description: Primeiro programa escrito na linguagem C 
+*/
+
+#include <stdio.h> //STanDard Input Output
+#include <conio.h> //CONsole Input Output
+main()//Função principal
+{//Início
+     puts("Hello World!! Carlla Shimpo (:");
+     puts("FMU");
+     puts("Carlla Shimpo");
+     getch();
+}//Fim do programa
